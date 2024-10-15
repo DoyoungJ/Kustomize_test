@@ -6,4 +6,4 @@ resources:
 images:
 - name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/dyj-ecr
   newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/dyj-ecr
-  newTag: 60c0f3c576016399815bd4b474174c26f31886a3
+  newTag: b18fa5fa9c4973553a4c7a729f7b8ac0d82f1964
