@@ -3,7 +3,3 @@ kind: Kustomization
 namePrefix: dev-
 resources:
 - ../../resources
-images:
-- name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/dyj-ecr
-  newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/dyj-ecr
-  newTag: c24d84085469610cee25b6a2660e137d98c90504
