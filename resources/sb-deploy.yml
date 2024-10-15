@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
         - name: spring
-          image: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/dyj-ecr-test:751f8d90592669225f850d958bca3f90a216bcfd
+          image: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/dyj-ecr:c24d84085469610cee25b6a2660e137d98c90504
